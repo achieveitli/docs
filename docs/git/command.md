@@ -1,10 +1,10 @@
 <!--
  * @Author: ldx
  * @Date: 2021-03-10 10:52:52
- * @LastEditTime: 2021-03-12 15:27:17
+ * @LastEditTime: 2021-03-16 10:27:22
  * @LastEditors: ldx
  * @Description: 命令
- * @FilePath: \my-docs\docs\git\command.md
+ * @FilePath: \docs\docs\git\command.md
 -->
 # 基本命令
 
@@ -13,4 +13,8 @@
     ``` bash
     git init
     ```
-    
+  2. 查看状态
+
+    ```bash
+    git status
+    ```
